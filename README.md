@@ -15,3 +15,35 @@ graph TD;
     Learning_Basic-->Data_Structures_Algorithms;
     Data_Structures_Algorithms-->Advanced_Topics;
 ```
+
+Example Path
+```rb
+# Learn The Basics
+- [ ] Basic Syntax
+- [ ] Variables
+- [ ] Conditionals
+- [ ] Typecasting
+- [ ] Functions
+- [ ] Lists, Tuples, Sets, and Dictionaries
+
+# Data Structures and Algorithms
+- [ ] Arrays and Linked lists
+- [ ] Heaps Stacks and Queues
+- [ ] Hash Tables
+
+# Advanced Topics
+- [ ] Iterators
+- [ ] Regular Expressions
+- [ ] Decorators
+- [ ] Lambdas
+- [ ] Pip
+- [ ] List Comprehensions
+- [ ] Generator Compressions
+- [ ] Python Paradigms
+
+> OOP
+> - [ ] Classes
+> - [ ] Inheritance
+> - [ ] Methods and Dunder
+
+```
