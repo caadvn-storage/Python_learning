@@ -16,7 +16,7 @@ graph TD;
     Data_Structures_Algorithms-->Advanced_Topics;
 ```
 
-Example Path
+Learning Path 1
 ```rb
 # Learn The Basics
 - [ ] Basic Syntax
@@ -45,5 +45,11 @@ Example Path
 > - [ ] Classes
 > - [ ] Inheritance
 > - [ ] Methods and Dunder
+
+```
+
+Learning Path 2 - Selenium
+```rb
+Updating...
 
 ```
