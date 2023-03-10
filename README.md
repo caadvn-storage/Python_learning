@@ -13,14 +13,21 @@ Step3: Verify Python is installed on Windows<br>
     - Open the command prompt.
     - Type ```python --version```
     - Check the version of python which you have installed (it will be displayed if the python is successfully installed on your windows)
+
 2. Install IDEs and Code Editors<br>
 > An IDE (or Integrated Development Environment) is a program dedicated to software development. As the name implies, IDEs integrate several tools specifically designed for software development. <br>
 > In contrast, a dedicated code editor can be as simple as a text editor with syntax highlighting and code formatting capabilities. Most good code editors can execute code and control a debugger.
 
-※I want to suggest Visual Studio Code but you can use anything you want. Let’s take a look at some general purpose tools we can use for Python development.
+※I want to suggest Visual Studio Code but you can use anything you want. Let's see below:
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [PyCharm](https://www.jetbrains.com/ja-jp/pycharm/download/)
 - ...
+
+3. Some extension and setup VS Code
+```rb
+Updating...
+
+```
 
 ## Learning path
 1. Follow roadmap
