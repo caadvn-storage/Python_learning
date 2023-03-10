@@ -5,6 +5,9 @@ For member who want to learn more about python
 > Roadmap for python
 > - https://roadmap.sh/python
 
+> Some example:
+> - https://quickref.me/python
+
 ## Setup enviroment
 1. Install Python<br>
 Step1: Click [download here](https://www.python.org/downloads/) and install a stable version of Python as you want (we chose the Python 3.10 version)<br>
