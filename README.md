@@ -9,15 +9,16 @@ For member who want to learn more about python
 > - https://quickref.me/python
 
 ## Setup enviroment
-### 1. Install Python<br>
+#### 1. Install Python<br>
 Step1: Click [download here](https://www.python.org/downloads/) and install a stable version of Python as you want (we chose the Python 3.10 version)<br>
 Step2: Run Executable Installer and make sure to select both the checkboxes (Install launcher... && Add Python PATH)<br>
 Step3: Verify Python is installed on Windows<br>
-    - Open the command prompt.
-    - Type ```python --version```
-    - Check the version of python which you have installed (it will be displayed if the python is successfully installed on your windows)
 
-### 2. Install IDEs and Code Editors<br>
+- Open the command prompt.
+- Type ```python --version```
+- Check the version of python which you have installed (it will be displayed if the python is successfully installed on your windows)
+
+#### 2. Install IDEs and Code Editors<br>
 > An IDE (or Integrated Development Environment) is a program dedicated to software development. As the name implies, IDEs integrate several tools specifically designed for software development. <br>
 > In contrast, a dedicated code editor can be as simple as a text editor with syntax highlighting and code formatting capabilities. Most good code editors can execute code and control a debugger.
 
@@ -26,15 +27,16 @@ Step3: Verify Python is installed on Windows<br>
 - [PyCharm](https://www.jetbrains.com/ja-jp/pycharm/download/)
 - ...
 
-### 3. Some extension and setup VS Code
+#### 3. Some extension and setup VS Code
 
-- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
-- [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-- [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-- [.gitignore Generator](https://marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator)
+For `Python` , you can try some extension below to help you learn and code more easily.
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Support for the Python language
+- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) - Helping you write better code faster.
+- [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Provides basic notebook (help you test code)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter
+- [.gitignore Generator](https://marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator) - Easily and quickly generate .gitignore file
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Just theme
+- [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) - Just theme
 
 ## Learning path
 1. Follow roadmap
