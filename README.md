@@ -13,6 +13,7 @@ For member who want to learn more about python
 Step1: Click [download here](https://www.python.org/downloads/) and install a stable version of Python as you want (we chose the Python 3.10 version)<br>
 Step2: Run Executable Installer and make sure to select both the checkboxes (Install launcher... && Add Python PATH)<br>
 Step3: Verify Python is installed on Windows<br>
+([How to install Python](https://www.geeksforgeeks.org/how-to-install-python-on-windows/) - Check it if you have a trouble)
 
 - Open the command prompt.
 - Type ```python --version```
